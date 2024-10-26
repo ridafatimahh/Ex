@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-static void print_alphabet() {
+static void print_reverse_alphabet() {
 	char X;
 	 for (X = 'z'; X >= 'a'; X--) {
 		cout << X << " ";
@@ -10,7 +10,7 @@ static void print_alphabet() {
 
 int main() {
 
-	print_alphabet();
+	print_reverse_alphabet();
 
 
 
