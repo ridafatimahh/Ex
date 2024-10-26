@@ -7,7 +7,7 @@ static void print_comb() {
             for (int k = j + 1; k <= 9; k++) {
                 cout << i << j << k;
                 
-                    cout << ", " ;
+                    cout << " " ;
                 }
             }
         }
