@@ -6,7 +6,7 @@ using namespace std;
 static void print_alphabet() {
 	char X;
 	for (X = 'a'; X <= 'z'; X++) {
-		cout << X << endl;
+		cout << X << " ";
 	}
 }
 
